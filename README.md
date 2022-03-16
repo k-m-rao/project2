@@ -1,3 +1,4 @@
+http://localhost:8888/view/FSDS/netflix/image.png
 Netflix Movie Recommendation Project based on Pearson Correlation Coefficient. 
 Dataset taken from this link: https://www.kaggle.com/netflix-inc/netflix-prize-data?select=combined_data_1.txt 
 Another dataset is movie_titles.csv file provided in this repositoory only. 
